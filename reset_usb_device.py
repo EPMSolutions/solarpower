@@ -1,13 +1,3 @@
-##--------------------
-##--- Author: Pradeep Singh
-##--- Blog: https://iotbytes.wordpress.com/
-##--- Date: 1st Dec 2017
-##--- Version: 1.0
-##--- Python Ver: 2.7
-##--- Description: This python code will reset a USB port connected to Raspberry Pi
-##--------------------
-
-
 import subprocess
 import os
 import fcntl
